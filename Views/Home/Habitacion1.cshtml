@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Habitacion1";
+    
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>@ViewBag.Error</h1>
+<h1>La tortuga del tiempo</h1>
+<h2>En la habitacion de la tortuga del tiempo deberas de encontrar el patron matematico para avanzar a la siguiente sala</h2>
+<img src="/Imagenes/Enigma1.png" alt="Hasbu" class="img">
+
+<button onclick="alert('Pista 1: La multiplicacion te servira')"> Pista 1 </button>
+<button onclick="alert('Pista 2: Combina multiplicacion y suma')"> Pista 2 </button>
+<button onclick="alert('Pista 3: Anda palla bobo, solo dos pistas')"> Pista 3 </button>
+<form action='@Url.Action("Habitacion")'>
+<input type="text" name="Clave" required>
+<input type="hidden" name= "Sala" value="1">
+<p><input type="submit" value="Enviar"></p>
+</form>
+   
+
+</body>
+</html>

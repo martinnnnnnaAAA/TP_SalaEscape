@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Habitacion3";
+    
+}
+<h1>@ViewBag.Error</h1>
+<h1>Los tanques aquaticos maritimos de la marina matematica</h1>
+<h2>En la habitacion de Los tanques aquaticos maritimos de la marina matematica deberas de encontrar cual sera el primer contenedor en llenarse para avanzar a la siguiente sala</h2>
+<img src="/Imagenes/Enigma3.png" alt="Hasbu" class="img">
+<button onclick="alert('Pista 1: Sigue atentamente el flujo del agua')"> Pista 1 </button>
+<button onclick="alert('Pista 2: Cuidado con los tapones')"> Pista 2 </button>
+<button onclick="alert('Pista 3: Solo dos pistas')"> Pista 3 </button>
+<form action='@Url.Action("Habitacion")'>
+<input type="text" name="Clave" required>
+<input type="hidden" name= "Sala" value="3">
+<p><input type="submit" value="Enviar"></p>
+</form>

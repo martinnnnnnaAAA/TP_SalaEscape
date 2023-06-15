@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tp05-SalaEscape2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tp05-SalaEscape2.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Cartel.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Cartel.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Enigma1.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\Enigma1.PNG"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Enigma2.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\Enigma2.PNG"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Enigma3.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\Enigma3.PNG"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Enigma3Resuelto.gif",
+      "PackagePath": "staticwebassets\\Imagenes\\Enigma3Resuelto.gif"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Enigma4.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\Enigma4.PNG"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Escape.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Escape.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Hasbu.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\Hasbu.PNG"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Imagen1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Imagen1.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Imagen2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Imagen2.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Imagen3.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\Imagen3.PNG"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\escena1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\escena1.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\escena2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\escena2.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\fondo.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\fondo.jpg"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\fondobarra.png",
+      "PackagePath": "staticwebassets\\Imagenes\\fondobarra.png"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\hasbu2.gif",
+      "PackagePath": "staticwebassets\\Imagenes\\hasbu2.gif"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\Imagenes\\hasbu3.gif",
+      "PackagePath": "staticwebassets\\Imagenes\\hasbu3.gif"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\Programacion\\Tp05-SalaEscape2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tp05-SalaEscape2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tp05-SalaEscape2.props",
+      "PackagePath": "build\\Tp05-SalaEscape2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tp05-SalaEscape2.props",
+      "PackagePath": "buildMultiTargeting\\Tp05-SalaEscape2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tp05-SalaEscape2.props",
+      "PackagePath": "buildTransitive\\Tp05-SalaEscape2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

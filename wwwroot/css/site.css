@@ -1,0 +1,111 @@
+html {
+  font-size: 14px;
+}
+
+h1, h2, h3, a{
+  color:whitesmoke;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('/Imagenes/fondo.jpg');
+  background-size: cover;
+}
+
+.galeria {
+  padding: 16px;
+}
+
+.imagen-principal img {
+  width: 100%;
+}
+
+.lista-imagenes img{
+  width: 100%;
+  margin-right: 10px;
+}
+
+.lista-imagenes{
+  display: flex;
+  overflow-y: auto;
+}
+
+
+
+img{
+  border: 6px double purple;
+  cursor: zoom-in;
+}
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin: 20px 60px 0px 20px;
+}
+
+footer {
+  position: fixed; 
+  bottom: 0; 
+  margin: 10px 0px 20px 0px;
+}
+
+main{
+  text-align: center;
+  cursor: crosshair;
+  text-shadow: purple 2px 0 10px;
+}
+
+
+section img:hover {
+  box-shadow: inset 500px 0 0 0 #f08aeb;
+  color: #f08aeb;
+}
+
+
+main img{
+  float: right;
+}
+
+.container-fluid{
+  background-image: url('/Imagenes/fondobarra.png');
+  margin: none;
+}
+
+.escapeend{
+  float: none;
+}
+.hasbu1{
+  width: 600px;
+  float: left;
+}
+
+.hasbu2{
+  width: 600px;
+  float: right;
+}

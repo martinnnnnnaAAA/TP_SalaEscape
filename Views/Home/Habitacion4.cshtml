@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Habitacion4";
+    
+}
+<h1>@ViewBag.Error</h1>
+<h1>La tabla de pitagoras de la salada</h1>
+<h2>En la habitacion de La tabla de pitagoras de la salada deberas de encontrar el patron matematico para avanzar a la siguiente sala</h2>
+<img src="/Imagenes/Enigma4.png" alt="Hasbu" class="img">
+<button onclick="alert('Pista 1: Recuerdas la habitacion 1, algo similar')"> Pista 1 </button>
+<button onclick="alert('Pista 2: Combina multiplicacion y suma')"> Pista 2 </button>
+<button onclick="alert('Pista 3: Anda palla bobo')"> Pista 3 </button>
+<form action='@Url.Action("Habitacion")'>
+<input type="text" name="Clave" required>
+<input type="hidden" name= "Sala" value="4">
+<p><input type="submit" value="Enviar"></p>
+</form>

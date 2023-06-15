@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Habitacion2";
+    
+}
+<h1>@ViewBag.Error</h1>
+<h1>Los muffins algebraicos</h1>
+<h2>En la habitacion de los muffins algebraicos deberas de encontrar el incognito matematico para avanzar a la siguiente sala</h2>
+<img src="/Imagenes/Enigma2.png" alt="Hasbu" class="img">
+<button onclick="alert('Pista 1: asigna valores distintos a cada muffin')"> Pista 1 </button>
+<button onclick="alert('Pista 2: acordate de separar en terminos')"> Pista 2 </button>
+<button onclick="alert('Pista 3: Otra vez?')"> Pista 3 </button>
+<form action='@Url.Action("Habitacion")'>
+<input type="text" name="Clave" required>
+<input type="hidden" name= "Sala" value="2">
+<p><input type="submit" value="Enviar"></p>
+</form>
+   
